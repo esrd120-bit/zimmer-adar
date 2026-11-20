@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://esrd120-bit.github.io/zimmer-adar/sitemap.xml
